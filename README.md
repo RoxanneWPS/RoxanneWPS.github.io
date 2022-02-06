@@ -8,6 +8,10 @@
 
 - https://roxannewps.github.io/Linux-900/
 
+Version 1.1
+
+Update Cache Offline
+
 
 ### Credits:
 
