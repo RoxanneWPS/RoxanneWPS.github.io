@@ -5,7 +5,8 @@
 - https://roxannewps.github.io/pOOBs4/
 
 Version 1.1
--Problem with image in offline mode [fixed]
+-Problem with image in offline mode fixed
+
 -Removed leftover files
 
 ### Linux PS4 ![Version](https://img.shields.io/badge/Version-1.1-brightgreen.svg)
