@@ -1,14 +1,12 @@
 # Exploits, Webkit, Jailbreak PS4 & PS5
 
-### PS4 Jailbreak + Goldhen v2.1 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
+### PS4 Jailbreak + Goldhen v2.1.1 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
 
 - https://roxannewps.github.io/pOOBs4/
 
-Version 1.1
+Version 1.2
 
--Problem with image in offline mode fixed
-
--Removed leftover files
+-New version GoldHen2.1.1
 
 ### Linux PS4 ![Version](https://img.shields.io/badge/Version-1.1-brightgreen.svg)
 
